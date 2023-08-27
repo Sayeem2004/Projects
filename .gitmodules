@@ -6,3 +6,15 @@
 	path = Hackathons/BigRedHacks
 	url = https://github.com/Sayeem2004/RouterControl.git
 	branch = main
+[submodule "Website"]
+	path = Website
+	url = https://github.com/Sayeem2004/sayeem2004.github.io.git
+	branch = main
+[submodule "Utilities/ZSH"]
+	path = Utilities/ZSH
+	url = https://github.com/Sayeem2004/ZSH.git
+	branch = main
+[submodule "Cornell/Ocamulator"]
+	path = Cornell/Ocamulator
+	url = https://github.com/Sayeem2004/Ocamulator.git
+	branch = main
