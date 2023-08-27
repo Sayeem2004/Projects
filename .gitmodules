@@ -2,3 +2,7 @@
 	path = Hackathons/HackMIT
 	url = https://github.com/Sayeem2004/Porcelain.git
 	branch = main
+[submodule "Hackathons/BigRedHacks"]
+	path = Hackathons/BigRedHacks
+	url = https://github.com/Sayeem2004/RouterControl.git
+	branch = main
